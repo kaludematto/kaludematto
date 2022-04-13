@@ -1,4 +1,4 @@
-### Hello i am Kalu, Back-end Developer with JavaScript, TypeScript, Node.js and i have some Ruby and Ruby on Rails knowlege
+### Hello i am Kalu, Back-end Developer with JavaScript, TypeScript and Node.js
 
 -  I’m currently working on back-end development
 -  I’m currently learning JavaScript, TypeScript and Node.js
