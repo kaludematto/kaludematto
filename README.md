@@ -3,11 +3,6 @@
 -  I’m currently working on back-end development
 -  I’m currently learning JavaScript, TypeScript and Node.js
 
-<div align="center">
-  <a href="https://github.com/kaludematto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaludematto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaludematto&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
  </div>
 <div style="display: inline_block"><br> 
