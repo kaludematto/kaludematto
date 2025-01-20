@@ -1,7 +1,7 @@
 ### Hello i am Kalu, Back-end Developer with JavaScript, TypeScript and Node.js
 
 -  I’m currently working on back-end development
--  I’m currently learning Go and DevOps
+-  I’m currently learning DevOps and Full-Stack Development
 
   
  </div>
